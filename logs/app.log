@@ -1,0 +1,8 @@
+{"message":"::ffff:127.0.0.1 - - [14/Jan/2020:05:30:44 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [14/Jan/2020:05:30:44 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [14/Jan/2020:05:33:53 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [14/Jan/2020:05:33:53 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [14/Jan/2020:05:34:07 +0000] \"GET /user HTTP/1.1\" 404 1112 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [14/Jan/2020:05:34:07 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/user\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [14/Jan/2020:05:36:51 +0000] \"GET /user HTTP/1.1\" 404 1112 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [14/Jan/2020:05:36:51 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/user\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0\"\n","level":"info"}
